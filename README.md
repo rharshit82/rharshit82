@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rharshit82&label=Profile%20views&color=0e75b6&style=flat" alt="rharshit82" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and BlockChain**
+- 🌱 I’m currently learning **BlockChain**
 
 - 💬 Ask me about **MERN Stack, Firebase etc.**
 
